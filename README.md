@@ -8,3 +8,7 @@ always report a phishing email .
 Password manager : 
 password manager is criticla for protecting sensitive informatioon in online accounts 
 Use your organizations's approved password manager to securly create store and manage your password in a single place. 
+AI chatbox: 
+cyber criminal : 
+sharing post on social media, they will try to leanr about you
+USing PAB : help organization for PAB, 
